@@ -2,7 +2,7 @@
 <head>
    <style>
       body {
-         background-color: rgb(20,30, 1);
+         background-color: rgb(186,12, NaN);
       }
    </style>
    <h1>HTML Articles</h1>
