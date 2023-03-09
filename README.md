@@ -1,4 +1,4 @@
 <html>
-<body style="background-color: rgb(186, 12, NaN);
+<body style="background-color:cream;
 </body>
 </html>
